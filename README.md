@@ -32,7 +32,7 @@ Caetano Santos Lucio | <a href="https://github.com/caeslucio">caeslucio</a>|
 adicionar uma imagem
 
 ### Questão 1210 - Produção Ótima de Ótima Vodka
-adicionar uma imagem
+![image](https://user-images.githubusercontent.com/72039007/216789566-60bd0111-12cd-4418-89f3-cba29f8b1ed1.png)
 
 ### Questão 1517 - Maçãs
 ![1517_accept](https://user-images.githubusercontent.com/72039007/216787584-8862f452-d0a0-4c53-991b-7af7bf1957df.png)
