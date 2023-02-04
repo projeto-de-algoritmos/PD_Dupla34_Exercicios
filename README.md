@@ -11,11 +11,10 @@ Caetano Santos Lucio | <a href="https://github.com/caeslucio">caeslucio</a>|
   Este repositorio se destina à matéria de Projeto de Algoritmos (PA) da Universidade de Brasília. Diante disso, foi acordado entre os membros (Dupla 34) que realizassem questões de juizes online disponíveis pela internet. Sendo assim, o juiz online utilizado denomina-se <a href="https://www.beecrowd.com.br/judge/pt">Beecrowd</a>, antigo URI, onde encontra-se diversas questões sobre os mais diverços assuntos de programação, inclusive os abordados na disciplina de PA.</p>
 
 ## Exercícios
-<p align="justify"> Para o desenvolvimento dessa entrega, foram selecionados 4 exercícios os quais envolvem Programação Dinâmica e, a para soluciona-los, foram considerados os princípios aprendidos durantes as aulas e vídeos, além de alguns algoritmos, tais como <a definir>. Além disso, foi utilizada as linguagens de programação C++ para economia de tempo no processo de resolução dos exercícios. A seguir, confira tais exercícios.</p>
+<p align="justify"> Para o desenvolvimento dessa entrega, foram selecionados 3 exercícios os quais envolvem Programação Dinâmica e, a para soluciona-los, foram considerados os princípios aprendidos durantes as aulas e vídeos, além de alguns algoritmos, tais como <a definir>. Além disso, foi utilizada as linguagens de programação C e, em alguns casos, C++ para economia de tempo no processo de resolução dos exercícios. A seguir, confira tais exercícios.</p>
  
 | Código | Exercício | Origem |
 | ------ | ----------- | -------|
-| 1203 | <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1203"> Pontes de São Petersburgo </a> | <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1203"> Renato Parente </a> |
 | 1210 | <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1210"> Produção Ótima de Ótima Vodka </a> | <a href="https://www5.usp.br/"> USP </a> |
 | 1517 | <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1517"> Maçãs </a> | <a href="http://www.utfpr.edu.br/"> UTFPR </a> |
 | 1522 | <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1522"> Jogo das Pilhas </a> | <a href="http://www.utfpr.edu.br/"> UTFPR </a> |
@@ -27,9 +26,6 @@ Caetano Santos Lucio | <a href="https://github.com/caeslucio">caeslucio</a>|
 
 ## Exemplificando a execução das questões
 <p align="justify"> A fins de demonstração, será apresentado a seguir a execução das questões resolvidas no juíz online beecrowd. Nas imagens, é possivel verificar metadados sobre a subimissão da resolução na plataforma</p>
-
-### Questão 1203 - adicionar dps
-adicionar uma imagem
 
 ### Questão 1210 - Produção Ótima de Ótima Vodka
 ![image](https://user-images.githubusercontent.com/72039007/216789566-60bd0111-12cd-4418-89f3-cba29f8b1ed1.png)
